@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Django-Blog)](https://github.com/anuraghazra/github-readme-stats)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Auto-Google-Form-Filler)](https://github.com/anuraghazra/github-readme-stats)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=ezocr)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=flask_todo)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=BouncyBird.github.io)](https://github.com/anuraghazra/github-readme-stats)  
