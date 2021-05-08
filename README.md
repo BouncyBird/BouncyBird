@@ -17,3 +17,9 @@ Here are some ideas to get you started:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouncyBird&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  \
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BouncyBird&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Flask-Blog)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Django-Blog)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Auto-Google-Form-Filler)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=ezocr)](https://github.com/anuraghazra/github-readme-stats)  
