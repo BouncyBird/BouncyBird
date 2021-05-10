@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, its Me
 
 <!--
 **BouncyBird/BouncyBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouncyBird&langs_count=8&theme=radical)]()  \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouncyBird&langs_count=8&theme=radical&exclude_repo=5things-about-indira,hhoster&langs_count=8)]()  \
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BouncyBird&show_icons=true&theme=radical)]()
 
 
@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Django-Blog)]()  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Auto-Google-Form-Filler)]()  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=ezocr)]()  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=flask_todo)]()  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=flask_todo)]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=BouncyBird.github.io)]()  
