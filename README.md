@@ -17,6 +17,8 @@ Here are some ideas to get you started:
   
 ### Experience
 I have a lot of experience in Python, Flask, and HTML. I have some experience in Django and CSS. I have very little experience in JavaScript and JQuery.
+
+### Contact Me
   
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouncyBird&langs_count=8&theme=radical&exclude_repo=5things-about-indira,hhoster&langs_count=8)]()  \
