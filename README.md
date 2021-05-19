@@ -29,13 +29,13 @@ It shows a lot of CSS because I use Tailwind
 
 
 ### Top Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=cybercare)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Flask-Blog)]()  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Django-Blog)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Auto-Google-Form-Filler)]()  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=ezocr)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=flask_todo)]()  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=BouncyBird.github.io)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=cybercare)](https://github.com/BouncyBird/cybercare)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Flask-Blog)](https://github.com/BouncyBird/Flask-Blog)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Django-Blog)](https://github.com/BouncyBird/Django-Blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=Auto-Google-Form-Filler)](https://github.com/BouncyBird/Auto-Google-Form-Filler)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=ezocr)](https://github.com/BouncyBird/ezocr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=flask_todo)](https://github.com/BouncyBird/flask_todo)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BouncyBird&repo=BouncyBird.github.io)](https://github.com/BouncyBird/BouncyBird.github.io)
 
 ### Pronouns
 He, Him, His
