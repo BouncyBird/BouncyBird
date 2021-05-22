@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I have a lot of experience in Python, Flask, and HTML. I have some experience in Django and CSS. I have very little experience in JavaScript and JQuery.
 
 ### Contact Me
-  Fill out this form(it will email me): https://contact-bouncybird.herokuapp.com/
+  Fill out this form(it will email me): https://contact.eshan.biz
 ### Stats
 It shows a lot of CSS because I use Tailwind  
 
