@@ -1,5 +1,4 @@
-# Hi there 👋, its Me
-
+# Hi there 👋
 <!--
 **BouncyBird/BouncyBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
