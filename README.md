@@ -27,7 +27,7 @@ I have a lot of experience in Python, Flask, and HTML. I have some experience in
 It shows a lot of CSS because I use Tailwind  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouncyBird&langs_count=8&theme=radical&exclude_repo=5things-about-indira,hhoster&langs_count=8)]()  \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouncyBird&langs_count=8&theme=radical&exclude_repo=hhoster&langs_count=8)]()  \
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BouncyBird&show_icons=true&theme=radical)]()
 
 
