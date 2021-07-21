@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- # [Learn More about me](https://eshan.biz)
+ # [Learn More about me](https://eshan.dev)
 
-[Visit my website](https://eshan.biz)
+[Visit my website](https://eshan.dev)
 
 
 ### Experience
